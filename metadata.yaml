@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5247'
     url: http://www.gutenberg.org/2009/agents/5247
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13855#Une-politique-europ-enne---la-France-la-Russie-l-Allemagne-et-la-guerre-au-Transvaal
 gutenberg_bookshelf:
 - Boer War
 - FR Politique
