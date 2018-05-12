@@ -1,0 +1,32 @@
+_repo: Une-politique-europ-enne---la-France-la-Russie-l-Allemagne-et-la-guerre-au-Transvaal_13855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grosclaude, Etienne
+    alias: Grosclaude, Étienne
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '5247'
+    url: http://www.gutenberg.org/2009/agents/5247
+description: ''
+gutenberg_bookshelf:
+- Boer War
+- FR Politique
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13855'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Foreign public opinion'
+- !lcsh 'South Africa -- History -- 1836-1909'
+title: 'Une politique européenne : la France, la Russie, l''Allemagne et la guerre
+  au Transvaal'
+url: http://www.gutenberg.org/ebooks/13855
